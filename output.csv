@@ -1,0 +1,71 @@
+Student_ID,Name,Email,Category_1,Category_2,Category_3,Which data structure uses the Last-In-First-Out (LIFO) principle?,What is the time complexity of binary search in a sorted array? ,Which HTTP method is used to update an existing resource? ,  What does SQL stand for?  ,Which of the following is a NoSQL database? ,  What is the output of print(bool([])) in Python?  ,Which of the following is NOT a frontend framework? ,Which OOP principle promotes code reuse ?,What is the main function of a Load Balancer in a system? ,Which command is used to create a virtual environment in Python? ,Which of the following is a supervised learning algorithm?,Which library is used for data visualization in Python? ,What is the purpose of feature scaling in ML? ,Which metric is best for evaluating an imbalanced classification model? ,Which activation function is commonly used in deep learning hidden layers? ,Which technique is used to reduce overfitting in a neural network? ,Which algorithm is best suited for anomaly detection? ,What is the output of a softmax function? ,Which concept is used in reinforcement learning? ,Which of these is an example of NLP? ,What does VPN stand for?,Which protocol is used to encrypt web traffic? ,Which of the following is an example of two-factor authentication? ,Which attack involves intercepting communication between two parties? ,Which hashing algorithm is commonly used for password storage? ,What does the OSI model stand for? ,Which of these is a penetration testing tool? ,Which type of malware restricts access to files until a ransom is paid? ,Which port does HTTPS typically use? ,What is the principle of Least Privilege? 
+S001,Student_1,student1@example.com,Software Development,Data Science,Cybersecurity,0,0,1,1,1,1,0,1,1,1,1,1,0,0,0,1,0,0,1,1,1,0,1,1,1,1,0,1,0,0
+S002,Student_2,student2@example.com,Software Development,Data Science,Cybersecurity,0,0,0,1,0,1,1,0,1,1,0,0,1,1,0,1,1,1,0,0,1,1,1,1,1,1,0,0,0,1
+S003,Student_3,student3@example.com,Software Development,Data Science,Cybersecurity,0,1,0,1,1,1,0,0,1,1,0,1,0,0,1,1,0,0,1,1,0,1,1,1,0,1,1,1,1,1
+S004,Student_4,student4@example.com,Software Development,Data Science,Cybersecurity,1,1,0,0,1,0,1,0,0,0,0,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,0,1,0,1
+S005,Student_5,student5@example.com,Software Development,Data Science,Cybersecurity,0,1,1,0,0,1,1,1,0,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+S006,Student_6,student6@example.com,Software Development,Data Science,Cybersecurity,1,1,1,1,1,1,0,1,1,0,1,0,1,1,1,0,1,1,1,0,1,1,0,1,1,0,1,1,1,1
+S007,Student_7,student7@example.com,Software Development,Data Science,Cybersecurity,1,1,1,0,1,1,0,1,0,1,1,1,0,1,0,1,1,0,1,1,1,0,0,1,1,1,1,0,1,1
+S008,Student_8,student8@example.com,Software Development,Data Science,Cybersecurity,1,1,1,1,0,0,1,1,1,1,0,1,1,0,0,0,1,1,0,1,1,0,0,1,1,1,1,0,1,0
+S009,Student_9,Student9-example.com,Software Development,Data Science,Cybersecurity,1,1,0,1,1,1,0,1,1,0,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1
+S010,Student_10,student10@example.com,Software Development,Data Science,Cybersecurity,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1
+S011,Student_11,student11@example.com,Software Development,Data Science,Cybersecurity,0,1,0,1,1,0,1,0,1,1,0,0,0,1,1,0,1,0,1,1,1,0,0,1,0,1,1,1,1,1
+S012,Student_12,student12@example.com,Software Development,Data Science,Cybersecurity,0,1,1,0,1,1,1,1,1,1,1,0,0,1,0,1,1,0,1,1,0,1,1,0,1,0,1,1,1,0
+S013,Student_13,student13@example.com,Software Development,Data Science,Cybersecurity,0,1,1,1,0,1,1,1,1,0,0,1,1,1,1,1,0,0,1,1,0,0,1,0,1,1,1,0,1,1
+S014,Student_14,student14@example.com,Software Development,Data Science,Cybersecurity,1,0,1,1,1,1,1,1,1,1,1,1,0,1,0,0,1,0,0,1,0,1,0,1,0,1,0,1,1,1
+S015,Student_15,student15@example.com,Software Development,Data Science,Cybersecurity,1,1,1,1,1,1,0,1,1,1,1,1,0,0,0,1,1,0,1,1,1,0,1,1,0,1,0,1,1,1
+S016,Student_16,student16@example.com,Software Development,Data Science,Cybersecurity,1,0,1,1,0,1,1,1,0,1,1,0,0,1,1,1,0,1,0,1,1,1,1,0,1,1,1,1,0,0
+S017,Student_17,student17@example.com,Software Development,Data Science,Cybersecurity,1,0,1,0,1,0,1,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,1,1,1,1,1,1
+S018,Student_18,student18@example.com,Software Development,Data Science,Cybersecurity,1,1,0,1,1,1,0,1,1,1,1,1,1,1,0,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1
+S019,Student_19,student19@example.com,Software Development,Data Science,Cybersecurity,0,1,1,1,1,1,0,1,1,0,1,1,1,0,1,1,1,1,1,1,0,0,0,1,1,0,1,0,1,0
+S020,Student_20,student20@example.com,Software Development,Data Science,,0,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1
+S021,Student_21,student21@example.com,Software Development,Data Science,Cybersecurity,0,1,1,0,1,1,1,1,0,1,1,1,0,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1,1,1
+S022,Student_22,student22@example.com,Software Development,Data Science,Cybersecurity,1,1,0,1,0,0,0,1,1,0,1,1,0,1,1,1,1,1,1,1,0,1,1,0,0,0,1,1,0,1
+S023,Student_23,student23@example.com,Software Development,Data Science,Cybersecurity,0,1,1,1,1,0,1,1,1,1,1,0,1,1,0,0,0,1,0,0,0,1,1,1,1,1,1,1,0,1
+S024,Student_24,student24@example.com,Software Development,Data Science,Cybersecurity,1,1,1,1,1,1,0,0,1,0,1,1,0,0,1,0,1,0,1,1,1,1,1,0,1,1,0,1,0,1
+S025,Student_25,student25@example.com,Software Development,Data Science,Cybersecurity,0,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,0,0,1,1,0,1,1,1,1,0,1,0,1,1
+S026,Student_26,student26@example.com,Software Development,Data Science,Cybersecurity,1,0,0,0,1,1,1,1,0,1,1,0,1,1,0,0,1,1,1,1,0,0,1,1,1,0,0,0,1,1
+S027,Student_27,student27@example.com,Software Development,Data Science,Cybersecurity,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1
+S028,Student_28,student28@example.com,Software Development,Data Science,Cybersecurity,0,0,0,1,1,0,1,1,1,1,1,1,0,1,1,1,0,1,0,1,1,1,0,0,1,1,0,1,0,1
+S029,Student_29,student29@example.com,Software Development,Data Science,Cybersecurity,1,0,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,0,0,1,0,0,1,1,0,0,0,1
+S030,Student_30,student30@example.com,Software Development,Data Science,Cybersecurity,0,1,0,0,0,1,1,0,1,1,1,0,0,0,1,0,1,1,1,1,0,0,1,0,1,1,0,1,1,1
+S031,Student_31,student31@example.com,Software Development,Data Science,Cybersecurity,1,1,1,1,1,0,1,1,1,0,0,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1,0,1,1,0
+S032,Student_32,student32@example.com,Software Development,Data Science,Cybersecurity,1,0,1,1,1,1,1,0,1,0,1,0,0,1,1,0,1,1,1,1,0,1,0,1,0,0,1,1,1,1
+S033,Student_33,student33@example.com,Software Development,Data Science,Cybersecurity,1,1,1,1,1,0,0,1,0,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,0,1,1,0,0
+S034,Student_34,student34@example.com,Software Development,Data Science,Cybersecurity,1,1,0,1,0,1,1,1,0,1,1,1,1,1,0,1,1,0,1,0,0,0,0,1,1,1,1,0,1,1
+S035,Student_35,student35@example.com,Software Development,Data Science,Cybersecurity,1,1,1,1,1,1,1,0,0,1,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,1,1,0,0,0
+S036,Student_36,student36@example.com,Software Development,Data Science,Cybersecurity,1,0,0,1,1,1,1,1,0,1,0,1,0,1,1,0,0,0,1,1,1,1,0,1,0,1,0,1,1,1
+S037,Student_37,student37@example.com,Software Development,Data Science,Cybersecurity,1,0,0,0,0,1,1,1,0,1,1,0,0,1,1,0,0,1,0,0,1,0,0,1,1,1,1,0,1,1
+S038,Student_38,student38@example.com,Software Development,Data Science,Cybersecurity,1,0,0,1,1,0,0,1,0,1,1,1,1,1,1,1,0,1,1,1,0,1,0,1,1,0,1,1,0,1
+S039,Student_39,student39@example.com,Software Development,Data Science,Cybersecurity,1,1,1,0,1,0,0,1,1,0,0,1,1,1,1,0,1,0,1,1,1,1,0,1,1,1,1,1,1,0
+S040,Student_40,student40@example.com,Software Development,Data Science,Cybersecurity,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,0,1,1,1,0,0,0,0,1,1,0,1,1,0
+S041,Student_41,student41@example.com,Software Development,Data Science,Cybersecurity,1,1,1,1,1,1,1,0,1,1,1,0,1,0,1,1,1,1,1,1,1,0,1,1,1,0,0,0,1,1
+S042,Student_42,student42@example.com,Software Development,Data Science,Cybersecurity,0,1,1,0,1,1,1,1,1,1,1,1,0,1,1,0,1,1,0,0,0,1,1,0,0,0,0,1,1,1
+S043,Student_43,student43@example.com,,,Cybersecurity,1,0,0,1,1,1,0,1,1,0,1,0,1,1,1,1,1,0,0,1,1,1,1,1,1,0,1,0,0,0
+S044,Student_44,student44@example.com,Software Development,Data Science,Cybersecurity,1,1,1,0,1,0,1,1,0,1,1,1,1,0,1,1,1,0,1,0,1,1,0,1,0,1,0,1,0,1
+S045,Student_45,student45@example.com,Software Development,Data Science,Cybersecurity,1,1,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,0,1,1,1
+S046,Student_46,student46@example.com,Software Development,Data Science,Cybersecurity,1,0,1,1,0,1,0,0,0,1,1,0,1,1,1,0,1,0,1,0,1,1,1,1,1,1,1,1,0,0
+S047,Student_47,student47@example.com,Software Development,Data Science,Cybersecurity,1,1,0,1,1,0,0,0,0,1,1,1,1,0,1,1,1,0,1,1,1,1,0,1,0,1,1,1,1,0
+S048,Student_48,student48@example.com,Software Development,Data Science,TRUE,1,0,0,0,1,1,1,1,0,0,1,1,1,1,1,1,0,1,0,1,1,1,1,1,1,1,1,1,0,0
+S049,Student_49,student49@example.com,Software Development,Data Science,Cybersecurity,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,1,0,1,0,0,1,1,1,1,1,1,1,1,1
+S050,Student_50,student50@example.com,Software Development,Data Science,Cybersecurity,1,0,1,0,1,1,1,0,0,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,0,0,0,1,1,1
+S051,Student_51,student51@example.com,Software Development,Data Science,Cybersecurity,1,1,1,1,1,YES,1,0,1,0,1,1,0,1,1,1,,,1,1,1,0,0,1,1,1,1,1,1,1
+S052,Student_52,student52@example.com,Software Development,Data Science,Cybersecurity,YES,1,2,1,1,1,0,1,0,1,1,1,0,1,1,0,1,1,0,1,1,1,1,1,0,0,1,1,1,0
+S053,Student_53,student53@example.com,Software Development,Data Science,Cybersecurity,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+S054,,student54@example.com,Software Development,Data Science,Cybersecurity,1,0,0,0,1,1,1,0,0,0,1,1,1,1,1,1,0,1,1,0,1,1,0,1,0,0,1,1,1,0
+S055,Student_55,student55@example.com,Software Development,Data Science,Cybersecurity,0,1,1,1,0,1,0,1,1,1,0,0,1,1,0,1,1,0,0,0,0,0,1,1,1,1,1,1,1,0
+S056,Student_56,student56@example.com,Software Development,Data Sciencce,Cybersecurity,0,1,0,1,1,0,1,1,1,1,0,1,0,0,1,1,1,1,0,1,1,0,1,1,0,1,0,0,0,1
+S057,Student_57,student57@example.com,Software Development,Data Science,Cybersecurity,1,0,1,1,0,1,0,1,1,1,1,0,0,1,1,0,0,0,1,0,1,1,0,0,0,0,1,1,1,0
+S058,Student_58,student58@example.com,Software Development,Data Science,Cybersecurity,1,1,1,1,1,0,N/A,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+S059,Student_59,student59@example.com,Software Development,Data Science,Cybersecurity,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,0,0,0,1,1,0,1,0,1,1
+S060,Student_60,student60@example.com,Software Development,Data Science,Cybersecurity,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,1,0,1,0,0
+S061,Student_61,student61@example.com,Software Development,,Cybersecurity,1,1,0,1,0,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1,1,0,1,1,1,1,0,1,1
+S062,Student_62,student62@example.com,Software Development,Data Science,Cybersecurity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+S063,Student_63,student63@example.com,Software Development,Data Science,Cybersecurity,stack,O(log n),PUT,Structured Query Language,MongoDB,False,Django,Inheritance,Distribute traffic,virtualenv,Random Forest,Matplotlib,Normalize features,F1-score,ReLU,Dropout,Isolation Forest,Probabilities,Q-learning,Sentiment analysis,Virtual Private Network,HTTPS,Password + SMS code,Man-in-the-middle,bcrypt,Open Systems Interconnection,Metasploit,Ransomware,443,Grant minimum access
+S064,Student_64,student64@example.com,Software Development,Data Science,Cybersecurity,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30
+S065,Student_65,student65@example.com,Other,Other,Other,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+S066,Student_66,student66@example.com,Software Development,Data Science,Cybersecurity,0,1,1,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1
+S067,Student_67,student67@example.com,Software Development,Data Science,Cybersecurity,x,1,1,1,1,1,1,1,1,1,1,1,1,NA,1,,,1,1,1,1,1,0,1,1,1,1,y,1,1
+S068,Student_68,student68@example.com,Software Development,Data Science,Cybersecurity,0,0,1,1,0,0,0,1,1,0,0,0,1,1,0,0,0,1,1,0,0,0,1,1,0,0,0,1,1,0
+S069,Student 69,student_69@example.com,Software Development,Data Science,Cybersecurity,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0
+S070,Student_70,student70@example.com,Software Development,Data Science,Cybersecurity,-1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
