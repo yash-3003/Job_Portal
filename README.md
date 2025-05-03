@@ -1,8 +1,8 @@
-# Automated Job Role Prediction and Placement Management System
+# Job Role Recommendation and Placement Management System
 
 ## 📌 Project Overview
 
-The **Automated Job Role Prediction and Placement Management System** is a web-based platform that leverages machine learning to predict suitable job roles for students based on their academic profiles and manages the entire placement process efficiently. Built on the robust MERN stack, it enables students, administrators, and companies to interact within a centralized system.
+The **Job Role Recommendation and Placement Management System** is a web-based platform that leverages machine learning to predict suitable job roles for students based on their academic profiles and manages the entire placement process efficiently. Built on the robust MERN stack, it enables students, administrators, and companies to interact within a centralized system.
 
 ---
 
