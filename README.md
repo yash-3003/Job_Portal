@@ -30,5 +30,35 @@ The **Automated Job Role Prediction and Placement Management System** is a web-b
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/job-role-prediction-placement.git
+git clone https://github.com/yash-3003/Job_Portal.git
 cd Job_Portal
+```
+### 2. Backend Installation
+```bash
+cd backend
+npm install
+# Set environment variables in a .env file (Mongo URI, JWT Secret, etc.)
+npm start
+npm run dev
+```
+
+### 3. Frontend
+```bash
+cd ../frontend
+npm install
+npm start
+npm run dev
+```
+
+### 4. env setup
+For env setup you will be required 
+```bash
+MONGO_URI=
+PORT=8000 #optional
+SECRET_KEY= #random
+#cloudinary setup
+CLOUD_NAME= 
+API_KEY=
+API_SECRET=
+```
+---
