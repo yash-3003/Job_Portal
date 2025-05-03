@@ -26,3 +26,9 @@ The **Automated Job Role Prediction and Placement Management System** is a web-b
 - **Authentication**: JSON Web Tokens (JWT), bcrypt
 
 ---
+## 📦 Installation & Setup
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/yourusername/job-role-prediction-placement.git
+cd Job_Portal
